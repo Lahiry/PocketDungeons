@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Red Orb
+  - Blue Orb
+  - Green Orb
+  - Knight
+  - Archer
+  - Mage
+  - Portrait
+  - Projectile
+  - Key
+  - PlayerMovementCollider
+  - PlayerBodyCollider
+  - EnemyMovementCollider
+  - EnemyBodyCollider
+  - Wall
+  - Spider
+  - Arrow
+  - Orb
+  - SpawnController
+  - HUD
+  - PlayerFeetCollider
+  - GameMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MovementLayer
+  - Water
+  - UI
+  - CombatLayer
+  - WallLayer
+  - LavaLayer
+  - Portraits
+  - ProjectileLayer
+  - LavaColliderLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1547407185
+    locked: 0
+  - name: Blood
+    uniqueID: 631624797
+    locked: 0
+  - name: Items
+    uniqueID: 1487553631
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1460292119
+    locked: 0
+  - name: Walls
+    uniqueID: 1237995639
+    locked: 0
+  - name: Units
+    uniqueID: 3806051115
+    locked: 0

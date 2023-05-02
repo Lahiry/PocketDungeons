@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a9617908a8fd5d49b7e93610694fc7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - magePortrait: {fileID: 2467787255296954722, guid: 50bf952ed19ede8438298026a54322c2, type: 3}
+  - archerPortrait: {fileID: 7852231517075585246, guid: 9b5f52217b4166543914e87a87aa8659, type: 3}
+  - knightPortrait: {fileID: 4883819828719678448, guid: 8728a9736d605314c8c3ca9a111b776a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
